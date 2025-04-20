@@ -1,7 +1,14 @@
-Hey, I guess
+## About me
+#### City - Hanoi, Vietnam
+#### College - Hanoi University of Science and Technology
 
-Currently I am interested in cybersecurity.
+## Interests
+#### Cybersecurity
+#### Bemani/Rhythm Games
 
-As an avid Rhythm Game/Bemani fan, I hope to be able to contribute to projects of the same topic.
+## Hobbies
+#### Learning French
+#### Powerlifting
 
-What else do I do? I do powerlifting and study French.
+## Contact
+#### Discord - whiteou7.
