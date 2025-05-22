@@ -1,17 +1,5 @@
-## About me
-City - Hanoi, Vietnam
+i might or might not like rhythm game
 
-College - Hanoi University of Science and Technology
+find me on discord whiteou7.
 
-## Interests
-Cybersecurity
-
-Bemani/Rhythm Games
-
-## Hobbies
-Learning French
-
-Powerlifting
-
-## Contact
-Discord - whiteou7.
+![moment](iidx-punch.gif)
